@@ -2,8 +2,16 @@ img {
     width: 200px;
 }
 body {
+   
+        .eb-garamond-<eb-garamond> {
+            font-family: "EB Garamond", serif;
+            font-optical-sizing: auto;
+            font-weight: <weight>;
+            font-style: normal;
+        }
+    
     text-align: center;
-    font-family:'Franklin Gothic Medium';
+    font-family:'EB Garamond';
     background: rgb(142, 207, 207);
     color: rgb(10, 106, 106);
 }
